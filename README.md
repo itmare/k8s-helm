@@ -54,9 +54,9 @@ Helm Chart
 -	helm 3는 보안이 강화되었다.
 -	helm이 API server와 직접적으로 통신한다. permission은 쿠버의 config file 기반이다. 고로 user permission을 제한 할 수 있다.
 
-<img src=./pictures/Helm-2-architecture.png>
+<img src=./pictures/helm-2-architecture.png>
 
-<img src=./pictures/Helm-3-architecture.png>
+<img src=./pictures/helm-3-architecture.png>
 
 #### Helm Client 측면
 
@@ -485,4 +485,6 @@ helm uninstall myapp #--> 릴리즈 정보도 삭제한다.  (삭제하지 않�
 ##### 7. k8s pods 안으로 shell 접속
 
 -	kubectl exec -it my-pod --container main-app -- /bin/bash
-# k8s-helm
+
+	k8s-helm
+	========
