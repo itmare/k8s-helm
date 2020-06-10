@@ -56,11 +56,7 @@ Helm Chart
 
 <br>
 
--	helm 2
-
 <img src=./pictures/helm-2-architecture.png>
-
--	helm 3
 
 <img src=./pictures/helm-3-architecture.png>
 
