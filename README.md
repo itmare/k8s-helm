@@ -54,7 +54,13 @@ Helm Chart
 -	helm 3는 보안이 강화되었다.
 -	helm이 API server와 직접적으로 통신한다. permission은 쿠버의 config file 기반이다. 고로 user permission을 제한 할 수 있다.
 
+<br>
+
+-	helm 2
+
 <img src=./pictures/helm-2-architecture.png>
+
+-	helm 3
 
 <img src=./pictures/helm-3-architecture.png>
 
